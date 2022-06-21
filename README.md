@@ -15,6 +15,6 @@ I've been learning to code for 4 years, after switching careers. I started with 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x-4nto&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x-4nto&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
