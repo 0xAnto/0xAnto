@@ -17,3 +17,4 @@ I've been learning to code for 4 years, after switching careers. I started with 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x-4nto&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
