@@ -1,4 +1,4 @@
-Hey 👋 This is Anto.
+Hey 👋 This is Anto!
 * 🧠  Full Stack Developer,
 * 🌍  Based in India,
 * 🤝  Open to collaborating on Decentralized Applications.
