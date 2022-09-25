@@ -9,6 +9,5 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnto&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/> -->
 <!-- ## 🏆GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=0xAnto&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-
-<!-- ### 😂Random Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+ ### 😂Random Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
