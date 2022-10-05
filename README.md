@@ -1,5 +1,5 @@
- Hey, This is Anto👋
-* 🧠  Full Stack Developer,
+ Hey, This is Anto!
+* 🧠  Full Stack Blockchain Developer,
 * 🌍  Based in India,
 * 🤝  Open to collaborating on Decentralized Applications. 
 <!-- 
