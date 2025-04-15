@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ed4596&width=435&lines=Hello%2C+I'm+Anto!)](https://git.io/typing-svg)
 
 
-- I'm a Developer at @kanalabs building perpetual futures and gas station on Aptos
+- I'm a Dev at @kanalabs building fully onchain perp dex on Aptos
 
 # 💻Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
