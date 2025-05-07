@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ed4596&width=435&lines=Hello%2C+I'm+Anto!)](https://git.io/typing-svg)
 
 
-- I'm a Dev at @kanalabs building fully onchain perp dex on Aptos
+- Lead Dev at @kanalabs building fully onchain perp dex on Aptos
 
 # 💻Tech Stack
 ![Aptos](https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=white)
@@ -17,8 +17,8 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-%61DAFB.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xAnto&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnto&theme=radical&hide_border=false&include_all_commits=true&count_private=true&)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=0xAnto&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnto&theme=radical&hide_border=false&include_all_commits=true&count_private=true&)<br/> -->
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xAnto&theme=radical&no-frame=false&no-bg=false&margin-w=8&layout=compact)
