@@ -1,12 +1,12 @@
 <div style="background: linear-gradient(to bottom right, #ff00ff, #ffffff); padding: 20px; border-radius: 10px;">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADFF2F&width=435&lines=Hello%2C+I'm+Anto!;Building+Perp+Dex+on+Aptos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADFF2F&width=435&lines=Hello%2C+I'm+Anto!;Building+Fully+Onchain+Perp+Dex)](https://git.io/typing-svg)
 
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=0xAnto&theme=merko&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Streak" /></a>
-</div>
+</div> -->
 
 ![Anto's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xAnto&theme=merko&hide_border=true)
 
