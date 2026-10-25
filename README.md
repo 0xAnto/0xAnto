@@ -13,14 +13,6 @@
   <a href="https://0xanto.xyz/resume.pdf"><img src="https://img.shields.io/badge/resume-pdf-555555?style=flat-square" alt="Resume"></a>
 </p>
 
-<div align="center">
-
-| **$2B+** | **$1B+** | **370M+** | **14+** |
-| :---: | :---: | :---: | :---: |
-| lifetime perps volume<br><sub>xyra.trade</sub> | swap volume<br><sub>Kana aggregator</sub> | sponsored transactions<br><sub>Kana Paymaster</sub> | chains supported<br><sub>ERC-4337 smart-wallet SDK</sub> |
-
-</div>
-
 I build systems where mistakes are expensive. Trading infrastructure taught me to budget latency and memory, measure honestly, and design for the failure case. I bring the same habits to AI work: speech models, evals, on-device inference, and agent-native engineering.
 
 ### Right now
@@ -54,10 +46,10 @@ I build systems where mistakes are expensive. Trading infrastructure taught me t
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**xyra.trade**](https://xyra.trade) | Fully on-chain order-book perps exchange on Aptos, **$2B+** lifetime volume. I owned the core protocol: clearinghouse, positions, liquidations, funding, TP/SL, market modes and the Pyth oracle integration, plus keepers, bots and the public SDK [`@xyra-trade/perps`](https://www.npmjs.com/package/@xyra-trade/perps). | Move · Rust · TypeScript |
-| [**Kana Paymaster**](https://medium.com/xyra-labs/kana-paymaster-on-aptos-e414a37111d6) | Gas sponsorship on Aptos via fee-payer transactions (AIP-39), **370M+** sponsored transactions. SDK: [`@kanalabs/paymaster-sdk`](https://www.npmjs.com/package/@kanalabs/paymaster-sdk). | TypeScript · Kubernetes |
-| **Cross-chain swap aggregator** | Any-to-any token swaps across EVM and non-EVM chains, **$1B+** volume. | Move · Node.js · bridges |
-| **ERC-4337 smart-wallet SDK** | Smart-account SDK for account abstraction across **14+** EVM chains. | TypeScript |
+| [**xyra.trade**](https://xyra.trade) | Fully on-chain order-book perps exchange on Aptos. I owned the core protocol: clearinghouse, positions, liquidations, funding, TP/SL, market modes and the Pyth oracle integration, plus keepers, bots and the public SDK [`@xyra-trade/perps`](https://www.npmjs.com/package/@xyra-trade/perps). | Move · Rust · TypeScript |
+| [**Kana Paymaster**](https://medium.com/xyra-labs/kana-paymaster-on-aptos-e414a37111d6) | Gas sponsorship on Aptos via fee-payer transactions (AIP-39), built and operated as a production service. SDK: [`@kanalabs/paymaster-sdk`](https://www.npmjs.com/package/@kanalabs/paymaster-sdk). | TypeScript · Kubernetes |
+| **Cross-chain swap aggregator** | Any-to-any token swaps across EVM and non-EVM chains. | Move · Node.js · bridges |
+| **ERC-4337 smart-wallet SDK** | Smart-account SDK for account abstraction across EVM chains. | TypeScript |
 
 <details>
 <summary><strong>More open source</strong></summary>
