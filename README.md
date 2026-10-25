@@ -12,6 +12,8 @@
   <a href="https://0xanto.xyz/resume.pdf"><img src="https://img.shields.io/badge/resume-pdf-555555?style=flat-square" alt="Resume"></a>
 </p>
 
+Over four years at Kana Labs, now Xyra Labs, I've built on-chain trading infrastructure: the xyra.trade perps exchange, a gas paymaster for Aptos, and a cross-chain swap aggregator. Today I lead the engineering team, work on a new exchange engine in Rust, and spend the rest of my time on AI: speech models, evals, and tooling for coding agents.
+
 ### Right now
 
 - Leading a next-generation, high-performance exchange engine in **Rust** at Xyra Labs
